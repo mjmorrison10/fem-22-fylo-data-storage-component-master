@@ -254,6 +254,7 @@ main {
   /* right: 2%; */
   width: 100%;
   bottom: 0;
+  background-color: white;
   /* height: 100%; */
   /* width: auto; */
   border: none;
